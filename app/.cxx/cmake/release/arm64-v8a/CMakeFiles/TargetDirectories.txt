@@ -1,0 +1,3 @@
+D:/codes/android/Opencv_test/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/native-lib.dir
+D:/codes/android/Opencv_test/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/codes/android/Opencv_test/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir

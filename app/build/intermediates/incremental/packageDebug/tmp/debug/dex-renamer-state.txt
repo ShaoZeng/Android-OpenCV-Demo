@@ -1,0 +1,7 @@
+#Wed Nov 11 14:45:06 CST 2020
+base.0=D\:\\codes\\android\\Opencv_test\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\codes\\android\\Opencv_test\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
